@@ -18,4 +18,5 @@ Biólogo (UFSCar) e graduando em Ciência da Computação (FIAP).
 
 ## Contato
 
-victor.camargog24@gmail.com
+- E-mail: victor.camargog24@gmail.com
+- LinkedIn: [linkedin.com/in/victor-de-camargo-gomes](https://www.linkedin.com/in/victor-de-camargo-gomes/)
