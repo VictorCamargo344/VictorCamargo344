@@ -3,7 +3,7 @@
 Analista de dados em formação, com foco em Ciência de Dados.
 Biólogo (UFSCar) e graduando em Ciência da Computação (FIAP).
 
-**Destaque:** coautor do [biomastats](https://github.com/iep-ferreira/biomastats), pacote R para análise de uso e cobertura do solo no Brasil com dados do MapBiomas. Desenvolvi o módulo de métricas de paisagem ([autoria registrada no DESCRIPTION](https://github.com/iep-ferreira/biomastats/blob/c94e721/DESCRIPTION#L13)).
+**Destaque:** coautor do [biomastats](https://github.com/iep-ferreira/biomastats), pacote R para análise de uso e cobertura do solo no Brasil com dados do MapBiomas (pacote mantido pelo Prof. Iuri Ferreira e o grupo de extensão CeMECA da UFSCar Lagoa do Sino). Desenvolvi o módulo de métricas de paisagem ([autoria registrada no DESCRIPTION](https://github.com/iep-ferreira/biomastats/blob/c94e721/DESCRIPTION#L13)).
 
 ## Ferramentas
 
