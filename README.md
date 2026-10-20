@@ -9,7 +9,7 @@ Biólogo (UFSCar) e graduando em Ciência da Computação (FIAP).
 
 - **R** (principal): tidyverse, sf, terra, landscapemetrics
 - **Python**: pandas, scikit-learn, PyOD
-- **SQL**, Excel, Power BI
+- SQL, Excel, Power BI
 
 ## Projetos
 
